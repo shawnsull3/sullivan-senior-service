@@ -1,0 +1,8 @@
+.navTab {
+    margin-right: 15px;
+}
+
+.selectedTab {
+    background-color: aqua;
+    margin-right: 15px;
+}
